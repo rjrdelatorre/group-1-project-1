@@ -13,3 +13,4 @@
 
 ### To-Do
 - Pretty charts: use gold, silver, bronze for the medal count bar graphs
+- z-scores for rest of world table
