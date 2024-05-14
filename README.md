@@ -14,3 +14,8 @@
 ### To-Do
 - Pretty charts: use gold, silver, bronze for the medal count bar graphs
 - z-scores for rest of world table
+
+### China file for the sake of reference
+https://colab.research.google.com/drive/1XQzCYrFDLe92ygQfnWDijBD_Yhv5thG0?usp=sharing
+
+It seems running the files locally causes divergence in our repo. It's probably easier to just reference this CoLab notebook.
