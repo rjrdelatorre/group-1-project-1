@@ -209,10 +209,11 @@ ax.set
 
 ## Contributing
 
-Richard Lankford
-Rolando De La Torre
-Chris Bolger
-Brandi Berry
+- Richard Lankford
+- Rolando De La Torre
+- Chris Bolger
+- Brandi Berry
 
-## Dataset contributed by: https://www.randigriffin.com/ and can be found at https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data?select=athlete_events.csv
+Dataset contributed by: https://www.randigriffin.com/ and can be found at https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data?select=athlete_events.csv
+
 
