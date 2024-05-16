@@ -23,7 +23,7 @@ More detailed findings and discussion about each team can be found at the bottom
 - [China](china.ipynb)
 - [Greece](greece_hostview.ipynb)
 
-In general, we were able to show a Host Advantage for Great Britain, Greece, and China, with these 3 teams demonstrating a significant boost in perfmance during their hosted games vs. historical performances.
+In general, we were able to show a likely Host Advantage for Great Britain, Greece, and China, with these 3 teams demonstrating a significant boost in perfmance during their hosted games vs. historical performances.
 
 Brazil did not demonstrate a clear host advantage, but did indeed prove an interesting case to analyze. 
 
