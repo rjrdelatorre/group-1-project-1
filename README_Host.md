@@ -178,3 +178,15 @@ fig.set_size_inches(10, 6)
 ax.axhline(y=avg_hosting_summer_medals_df, color='b', linestyle='-', label='Hosting Average Medals')
 ax.axhline(y=avg_nonhostingsummer_medals_df, color='r', linestyle='-', label='Non-Hosting Average Medals')
 ax.set
+
+## Contributing
+
+- Richard Lankford
+- Rolando De La Torre
+- Chris Bolger
+- Brandi Berry
+
+Dataset contributed by: https://www.randigriffin.com/ and can be found at https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data?select=athlete_events.csv
+
+
+
