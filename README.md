@@ -1,6 +1,9 @@
 # Group 1: Project 1
 # Testing for "Host Advantage" in the Summer Olympics
 
+## Project Slides 
+https://docs.google.com/presentation/d/114nit58BfUmdEd6wU8AzoycH2tson9Whx_KfftLNW9Y/edit#slide=id.p
+
 ## Objective
 We will investigate whether or not there is a "home field advantage" for a nation that hosts the Olympic games. To do this, we will focus on the following recent hosts:
 - Brazil (Rio 2016)
@@ -211,5 +214,5 @@ Rolando De La Torre
 Chris Bolger
 Brandi Berry
 
-## Dataset contributed by: https://www.randigriffin.com/
+## Dataset contributed by: https://www.randigriffin.com/ and can be found at https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data?select=athlete_events.csv
 
