@@ -15,10 +15,10 @@ Each member of our group will perform the analysis on one team. Our objective wa
 
 ## Findings
 More detailed findings and discussion about each team can be found at the bottom of the following files:
-- Brazil
-- Great Britain
+- [Brazil](brazil_hostview2.ipynb)
+- [United Kingdom](uk_hostview.ipynb)
 - [China](china.ipynb)
-- Greece
+- [Greece](greece_hostview.ipynb)
 
 In general, we were able to show a Host Advantage for Great Britain, Greece, and China, with these 3 teams demonstrating a significant boost in perfmance during their hosted games vs. historical performances.
 
